@@ -1,6 +1,8 @@
 # Emotion detection using deep learning
 
-## Dependencies
+- The training was conducted with data containing 7 emotions: angry, disgusted, fearful, happy, neutral, sad, suprised.
+
+### Dependencies
 
 - Python 3, [OpenCV](https://opencv.org/), [Tensorflow](https://www.tensorflow.org/)
 
